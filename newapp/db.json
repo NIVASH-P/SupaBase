@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "Number": "6381882152",
+      "Otp": "2152"
+    },
+    {
+      "Number": "6374044907",
+      "Otp": "4907"
+    },
+    {
+      "Number": "9363106051",
+      "Otp": "6051"
+    }
+  ],
+  "Users": [
+       {
+       " Name" : "Parthiban",
+       "Account Number" :"6370174",
+       "Account-Type" :"Major",
+       "Mobile-Number" :"6381882152",
+       "Athar-Number" :"xxxx-xxxx-4534",
+       "CIF Number" :"PBI6370178",
+       "Branch":"Ukkadam"
+       }
+  ]
+}

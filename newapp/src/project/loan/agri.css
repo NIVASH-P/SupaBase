@@ -1,0 +1,50 @@
+/* agri.css */
+.she {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-psd%2Fabstract-colorful-gradient-background-psd-modern-windows-desktop-wallpaper-4k-panoramic-size-2022_29937787.htm&psig=AOvVaw1LdO35X6K_S_3Yf4-eJw4k&ust=1700799047717000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICwmqqg2YIDFQAAAAAdAAAAABAE");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Text color */
+  }
+  .she h3 {
+    color: #2196F3; /* Blue color for headers */
+    margin-bottom: 10px;
+  }
+  
+  .she p {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the arrow icon */
+  .she p svg {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  
+  /* Apply some box-shadow to the container */
+  .she {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+  }
