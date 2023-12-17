@@ -55,17 +55,18 @@ export function Login()
             </Avatar>
             <br />
                  <TextField
-                 id="MobileNumber"
-                 label="Email"
+                 id="Email"
+                 label="Enter your Linked Email Address"
                  required
-                 name="Mobile-Number"
+                 name="Email"
                  onChange={((e) => setEmail(e.target.value))}>
                  </TextField>
                  <br />
                  <TextField
                  id="Password"
                  label="Password"
-                 name="Password"
+                 name="Password"   
+                 type="Password"
                  required
                  onChange={((e) => setOTP(e.target.value))}>
                  </TextField>
